@@ -1,0 +1,43 @@
+.tabela1{
+    border-collapse: collapse;
+}
+.tabela3{
+    border-collapse: collapse;
+}
+
+table{
+font-family:Arial,sans-sherif;
+font-size:16px;
+border-spacing: 2.5px;
+}
+
+td, th{
+border:1px solid black;
+padding:4px;
+
+}
+
+th{
+    background-color: green;
+    color:white;
+}
+
+.Lp{
+    background-color: orange;
+    color:darkblue;
+}
+
+.Imię{
+    background-color: orange;
+    color:darkblue;
+}
+
+.Nazwisko{
+    background-color: orange;
+    color:darkblue;
+}
+
+.Klasa{
+    background-color: orange;
+    color:darkblue;
+}
